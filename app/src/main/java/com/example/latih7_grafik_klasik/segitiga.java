@@ -31,7 +31,7 @@ public void onSurfaceCreated(GL10 gl, EGLConfig config) {
     private void initShapes(){
     float vertices[] = {
             // (x, y, z) of triangle
-            -0.6f, 0.5f, 0,
+            -0.6f, -0.5f, 0,
             0.6f, -0.5f, 0,
             0.0f, 0.5f, 0
     };

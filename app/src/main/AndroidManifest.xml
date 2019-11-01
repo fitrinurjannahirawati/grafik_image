@@ -10,8 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".segitiga"></activity>
-        <activity android:name=".Latih7_grafik_klasik" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".Latih7_grafik_klasik">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
